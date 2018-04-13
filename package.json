@@ -1,5 +1,6 @@
 {
   "main": "index.js",
+  "author": "renmingming",
   "scripts": {
     "dev": "set NODE_ENV=dev && webpack-dev-server --open --hot --inline",
     "build": "set NODE_ENV=prod && webpack -p",
